@@ -12,6 +12,7 @@ namespace OppConcepts
             PineTree test2 = new PineTree(203, "green", 5);
             Console.WriteLine($"The pinetree is {test2.Height} meters tall and the leaves that it has are {test2.Leaves} and has {test2.NumPinecone} pinecones");
             test2.GrowUp();
+            test2.LeavesFalling();
         }
     }
 }

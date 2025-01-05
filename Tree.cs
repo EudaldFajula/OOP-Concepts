@@ -20,5 +20,9 @@ namespace oopconcepts
         {
             Console.WriteLine("The tree grow up");
         }
+        public static void LeavesFalling()
+        {
+            Console.WriteLine("The leaves are falling");
+        }
     }
 }
