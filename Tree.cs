@@ -16,5 +16,9 @@ namespace oopconcepts
             Leaves = leaves;
 
         }
+        public virtual void GrowUp()
+        {
+            Console.WriteLine("The tree grow up");
+        }
     }
 }

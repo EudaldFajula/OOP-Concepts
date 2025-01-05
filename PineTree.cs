@@ -14,5 +14,9 @@ namespace oopconcepts
         {
             NumPinecone = numPinecone;
         }
+        public override void GrowUp()
+        {
+            Console.WriteLine("The PineTree grow up and has more pinecones");
+        }
     }
 }
