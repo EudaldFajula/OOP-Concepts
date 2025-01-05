@@ -3,9 +3,10 @@
   <Class Name="oopconcepts.Tree">
     <Position X="6.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAABAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAABAAAAAAAAAAIAAIAAAEAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Tree.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="oopconcepts.PineTree">
     <Position X="8.75" Y="2.75" Width="1.5" />
