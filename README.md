@@ -1,6 +1,6 @@
 # oopconcepts
 
-![Video](https://youtu.be/fxH1LziH77g)
+![Video](https://www.youtube.com/watch?v=fxH1LziH77g)
 
 ## Materials used in the presentation
 
